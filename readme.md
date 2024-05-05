@@ -1,5 +1,8 @@
 # Features ```lakhi-nakhjo```
 
+## Timeline
+Please follow [this link](https://docs.google.com/spreadsheets/d/1Qd_cBgxiLG6i_SvIzYWsGMkq9Y9_UmCxL4SOiVV-wFQ/edit?usp=sharing) to get to the timeline of this project, I'll keep the things updated as we add new feature.
+
 ## User
  - Register, this thing should only be using OTP from mobile/email. or OAuth from Google or Apple.
  - They should have an option to add mobile and email.
